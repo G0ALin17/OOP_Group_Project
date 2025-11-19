@@ -1,0 +1,1 @@
+class Authentication(val adminUsers: MutableList<AdminUser> = mutableListOf())
