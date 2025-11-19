@@ -1,1 +1,0 @@
-class Ticket(val origin: String, val destination: String, val price: Double, val ticketType: TicketType)
