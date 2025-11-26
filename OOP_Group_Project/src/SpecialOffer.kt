@@ -1,4 +1,4 @@
-package OOP_Group_Project
+package OOP_Group_Project // work by Member C
 
 class SpecialOffer(
     val offerName: String,
