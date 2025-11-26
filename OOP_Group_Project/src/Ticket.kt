@@ -1,1 +1,1 @@
-class Ticket(val origin: String, val destination: String, val price: Double, val ticketType: TicketType)
+class Ticket(val origin: Station, val destination: Station, val price: Double, val ticketType: TicketType)
